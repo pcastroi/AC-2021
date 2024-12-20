@@ -1,3 +1,9 @@
+# Ignore all files by default
 *
-!*.m~
 
+# Do not ignore directories or their contents
+!*/
+
+# Allow .m and .mlapp files
+!*.m
+!*.mlapp
