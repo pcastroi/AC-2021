@@ -1,0 +1,46 @@
+# MATLAB code files
+*.m
+*.mlx
+*.mlapp
+
+# MATLAB figures
+*.fig
+
+# MATLAB workspace files
+*.mat
+*.mldatx
+
+# MATLAB Simulink files
+*.slx
+*.mdl
+
+# MATLAB Apps
+*.mlappinstall
+
+# MATLAB projects
+*.prj
+
+# Temporary and backup files
+*.asv
+*.tmp
+
+# MATLAB logs and auto-save
+*.log
+slprj/
+*_autosave/
+
+# MATLAB preferences
+*.json
+
+# MATLAB code generation
+codegen/
+
+# MATLAB toolboxes (avoid tracking)
+*.mltbx
+
+# MATLAB live scripts outputs
+*.mlappbackup
+
+# Ignore other OS-specific files
+.DS_Store
+Thumbs.db
